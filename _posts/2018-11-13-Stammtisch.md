@@ -16,6 +16,6 @@ We have presentations every other month. The month in between we meet for social
 **Location:** [Trumerei](https://www.openstreetmap.org/node/2949428521) Bar
 
 
-If you have an Android phone, please install the app [StreetComplete](https://github.com/westnordost/StreetComplete/) and make sure you have mobile internet connection and enough battery. At 18:00 [Jakob](https://jakobmiksch.eu) will give a short introduction, afterwards we will walk around and improve the OpenStreetMap database.
+If you have an Android phone, please install the app StreetComplete and make sure you have mobile internet connection and enough battery. At 18:00 [Jakob](http://jakobmiksch.eu) will give a short introduction, afterwards we will walk around and improve the OpenStreetMap database.
 
 Join us on our [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg). There you can ask questions and keep updated what is happing.
