@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /salzburg
 permalink: pretty
 future: true
 markdown: kramdown
@@ -7,7 +7,7 @@ repo: starter
 github_org: maptime
 maptime:
   chapter: Maptime Salzburg
-  twitter: maptimeSalzburg
+  twitter: MaptimeSalzburg
   #disqus: YOUR DISQUS USERNAME
 
 gems:
