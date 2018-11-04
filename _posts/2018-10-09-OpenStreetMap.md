@@ -14,4 +14,4 @@ First Jakob gave an overview about the [OSM ecosystem](http://jakobmiksch.eu/pos
 
 ![]({{site.baseurl}}/img/2018-10-09/osm_routing.jpg)
 
-The evening ended in the Trumerei bar where the almost 20 participants had the chance to exchange experiences.
+The evening ended in the [Trumerei](https://www.openstreetmap.org/node/2949428521) bar where the almost 20 participants had the chance to exchange experiences.

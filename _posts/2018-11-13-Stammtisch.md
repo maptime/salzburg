@@ -4,7 +4,7 @@ category: event
 title: November Stammtisch
 ---
 
-We have presentations every other month. The month in between we meet for socializing, talking and having a good time. In German language we call this "Stammtisch". However, we also try to have a little activity as well. This time we want to solve some OpenSteetMap tasks with the Android App [StreetComplete](https://github.com/westnordost/StreetComplete/).
+We have presentations every second month. The month in between we meet for socializing, talking and having a good time. In German language we call this "Stammtisch". However, we also try to have a little activity as well. This time we want to solve some OpenSteetMap tasks with the Android App [StreetComplete](https://github.com/westnordost/StreetComplete/).
 
 
 **Date:** Tuesday, 13th October 2018
