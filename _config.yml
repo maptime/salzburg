@@ -3,7 +3,7 @@ permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: salzburg
 github_org: maptime
 maptime:
   chapter: Maptime Salzburg
