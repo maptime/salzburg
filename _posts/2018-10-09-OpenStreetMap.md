@@ -6,7 +6,7 @@ image: img/2018-10-09/osm_overview.jpg
 
 
 ![]({{site.baseurl}}/img/2018-10-09/osm_datasciene.jpg)
-(photos kindly provided by [Trafficon](https://www.trafficon.eu/))
+(photo kindly provided by [Trafficon](https://www.trafficon.eu/))
 
 In the beginning of October we had the first issue of our "Maptime Salzburg" meetup. We were generously hosted by [Trafficon](https://trafficon.eu). We had three presentations about OpenStreetMap (OSM). First Jakob gave an overview about the [OSM ecosystem](http://jakobmiksch.eu/post/openstreetmap_overview/).
 Afterwards Niko talked about [data science](https://janakiev.com/osm-data-science/) with OSM. Sebastian finally compared the OSM street network with other map providers.
