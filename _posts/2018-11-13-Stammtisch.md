@@ -1,21 +1,19 @@
 ---
 layout: event
 category: event
-title: November Stammtisch
+title: November 2018 - Stammtisch
 ---
 
-We have presentations every second month. The month in between we meet for socializing, talking and having a good time. In German language we call this "Stammtisch". However, we also try to have a little activity as well. This time we want to solve some OpenSteetMap tasks with the Android App [StreetComplete](https://github.com/westnordost/StreetComplete/).
+On Tuesday, 13th November 2018, five people met in order to collect some data for OpenStreetMap (OSM). We used the app [StreetComplete](https://github.com/westnordost/StreetComplete/) which is very easy to use. We also exchanged our experiences with OSM. It looks like that there are actually many mappers in the Salzburg area but there is almost no personal exchange. It would be great if Maptime Salzburg could serve as a platform for this in the future.
 
+![]({{site.baseurl}}/img/2018-11-13_mapping.jpg)
 
-**Date:** Tuesday, 13th October 2018
+Afterwards more people were meeting in the [Trumerei](https://www.openstreetmap.org/node/2949428521) bar. We discussed various geo-related topics and planned our next event which will be held in the middle of December. The presenations for the next meeting will probably be git, GDAL/OGR and PostGIS. Moreover we would like to give all participants  the possibility to introduce themselves. Additionally there shall be time for some very short lightning talks.
 
+![]({{site.baseurl}}/img/2018-11-13_stammtisch.jpg)
 
-**Time:** 18:00 for OpenStreetMap mapping, 19:00 for the Stammtisch
+Just in time for this second meetup we finished our new logo. It shows the two skylines of Salzburg: the castle and the churches of the old town.
 
+We are looking forward having more people on our next meeting. If you need more information join us on our [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg) or follow us on [Twitter](http://twitter.com/maptimesalzburg).
 
-**Location:** [Trumerei](https://www.openstreetmap.org/node/2949428521) Bar
-
-
-If you have an Android phone, please install the app StreetComplete and make sure you have mobile internet connection and enough battery. At 18:00 [Jakob](http://jakobmiksch.eu) will give a short introduction, afterwards we will walk around and improve the OpenStreetMap database.
-
-Join us on our [mailing list](https://lists.fossgis.de/mailman/listinfo/maptime-salzburg). There you can ask questions and keep updated what is happing.
+![]({{site.baseurl}}/img/maptime_salzburg_logo.png)
