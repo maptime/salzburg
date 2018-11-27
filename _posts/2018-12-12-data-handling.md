@@ -1,27 +1,32 @@
 ---
 layout: event
 category: event
-title: December 2018 - Spatial Data Handling
+title: December 2018 - Geospatial Data Handling
 ---
 
-The theme of our next meeting is `Spatial Data Handling`.
+The topic for our next meeting is *Geospatial Data Handling*. We have put together four exciting presentations:
 
-#### date and time
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
+**git** - Efficient versioning of program code and text files (Steffen Reichel)
 
-Wednesday, 12th December, 19:00
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/217px-GDALLogoColor.svg.png)
+**GDAL** - Process and Transform Raster Data ([Hannah Augustin](http://hannahaugustin.at/))
 
-#### place
+**OGR** - Process and Transform Vector Data ([Nikolai Janakiev](https://janakiev.com/))
 
-[iDEAS:lab](https://ideaslab.sbg.ac.at/), Schillerstraße 30
+![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png)
 
-north entrance of building (Techno-Z Bauteil XV)
+**PostGIS** - Store and Process Geodata in a Relational Database ([Andreas Petutschnig](http://andreaspetutschnig.com/))
 
-#### presentations
+We will meet at the iDEAS:lab in Itzling. Many thanks to [Z_GIS](https://zgis.at/) for providing the rooms! Drinks and snacks will be available. If you like, you are welcome to bring your own.
 
-* git - version control for code and text files
-* GDAL/OGR - the swiss army knive for transforming all kinds of geospatial data
-* PostGIS - store geospatial data in the most advanced open source data base
+**Time**: Wednesday **12th December - 19:00** o'clock
 
-#### Stammtisch
+**Location**: [iDEAS:lab](https://ideaslab.sbg.ac.at/), Schillerstraße 30,[ Techno_Z building north side](https://www.openstreetmap.org/node/4787833494) (building component XV)
 
-After the talks there will be a Stammtisch in the iDEAS:lab where we can connect and talk about all kinds of spatial topics (e.g. OpenStreetmap, remote sensing, analysis, ... ).
+New participants are very welcome. We are looking forward to a great evening!
+
+Attribution:
+* git [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
+* GDAL [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/217px-GDALLogoColor.svg.png) -[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+* PostGIS  [Logo](https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
