@@ -4,29 +4,28 @@ category: event
 title: December 2018 - Geospatial Data Handling
 ---
 
-The topic for our next meeting is *Geospatial Data Handling*. We have put together four exciting presentations:
+![]({{site.baseurl}}/img/2018-12-12_geospatial_datahandling.jpg)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
-**git** - Efficient versioning of program code and text files (Steffen Reichel)
+Our meeting in December took place in the [iDEAS:lab](https://ideaslab.sbg.ac.at/) which was kindly provided by [Z_GIS](https://zgis.at/).
+Our theme for this event was *Geospatial Data Handling*. We had four presentations:
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/217px-GDALLogoColor.svg.png)
-**GDAL** - Process and Transform Raster Data ([Hannah Augustin](http://hannahaugustin.at/))
+#### git - Efficient Versioning of Code and Text files
+by Stefen Reichel - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GIT-Introduction)
 
-**OGR** - Process and Transform Vector Data ([Nikolai Janakiev](https://janakiev.com/))
+#### GDAL - Process and Transform Raster Data
+by [Hannah Augustin](http://hannahaugustin.at/) - Slides (coming soon) - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GDAL-Introduction) - [Video](https://av.tib.eu/media/39178)
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png)
+#### OGR - Process and Transform Vector Data
+by [Nikolai Janakiev](https://janakiev.com/) - Slides (coming soon) - [Video](https://av.tib.eu/media/39176)
 
-**PostGIS** - Store and Process Geodata in a Relational Database ([Andreas Petutschnig](http://andreaspetutschnig.com/))
+#### PostGIS - Store and Process Geodata in a Relational Database
+by [Andreas Petutschnig](http://andreaspetutschnig.com/) - [Slides](https://github.com/augustinh22/maptime-salzburg/blob/master/materials/2018-12-12_PostGIS.pdf) - [Video](https://av.tib.eu/media/39177)
 
-We will meet at the iDEAS:lab in Itzling. Many thanks to [Z_GIS](https://zgis.at/) for providing the rooms! Drinks and snacks will be available. If you like, you are welcome to bring your own.
 
-**Time**: Wednesday **12th December - 19:00** o'clock
+## Videos
 
-**Location**: [iDEAS:lab](https://ideaslab.sbg.ac.at/), Schillerstraße 30,[ Techno_Z building north side](https://www.openstreetmap.org/node/4787833494) (building component XV)
+<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/39178" frameborder="0" allowfullscreen style="display:block;margin:20px auto;"></iframe>
 
-New participants are very welcome. We are looking forward to a great evening!
+<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/39176" frameborder="0" allowfullscreen style="display:block;margin:20px auto;"></iframe>
 
-Attribution:
-* git [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png) - [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
-* GDAL [Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/217px-GDALLogoColor.svg.png) -[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-* PostGIS  [Logo](https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png) - [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+<iframe width="560" height="315" scrolling="no" src="//av.tib.eu/player/39177" frameborder="0" allowfullscreen style="display:block;margin:20px auto;"></iframe>
