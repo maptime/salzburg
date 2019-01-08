@@ -16,7 +16,7 @@ by Steffen Reichel - [Material](https://github.com/augustinh22/maptime-salzburg/
 by [Hannah Augustin](http://hannahaugustin.at/) - Slides (coming soon) - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GDAL-Introduction) - [Video](https://av.tib.eu/media/39178)
 
 #### OGR - Process and Transform Vector Data
-by [Nikolai Janakiev](https://janakiev.com/) - Slides (coming soon) - [Video](https://av.tib.eu/media/39176)
+by [Nikolai Janakiev](https://janakiev.com/) - [Slides](https://janakiev.com/ogr-presentation/) - [Video](https://av.tib.eu/media/39176)
 
 #### PostGIS - Store and Process Geodata in a Relational Database
 by [Andreas Petutschnig](http://andreaspetutschnig.com/) - [Slides](https://github.com/augustinh22/maptime-salzburg/blob/master/materials/2018-12-12_PostGIS.pdf) - [Video](https://av.tib.eu/media/39177)
