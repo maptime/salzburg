@@ -10,7 +10,7 @@ Our meeting in December took place in the [iDEAS:lab](https://ideaslab.sbg.ac.at
 Our theme for this event was *Geospatial Data Handling*. We had four presentations:
 
 #### git - Efficient Versioning of Code and Text files
-by Stefen Reichel - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GIT-Introduction)
+by Steffen Reichel - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GIT-Introduction)
 
 #### GDAL - Process and Transform Raster Data
 by [Hannah Augustin](http://hannahaugustin.at/) - Slides (coming soon) - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GDAL-Introduction) - [Video](https://av.tib.eu/media/39178)
