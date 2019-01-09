@@ -13,7 +13,7 @@ Our theme for this event was *Geospatial Data Handling*. We had four presentatio
 by Steffen Reichel - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GIT-Introduction)
 
 #### GDAL - Process and Transform Raster Data
-by [Hannah Augustin](http://hannahaugustin.at/) - Slides (coming soon) - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GDAL-Introduction) - [Video](https://av.tib.eu/media/39178)
+by [Hannah Augustin](http://hannahaugustin.at/) - [Slides](http://slides.hannahaugustin.at/maptime/GDAL_intro/) - [Material](https://github.com/augustinh22/maptime-salzburg/tree/master/materials/2018-12-12_GDAL-Introduction) - [Video](https://av.tib.eu/media/39178)
 
 #### OGR - Process and Transform Vector Data
 by [Nikolai Janakiev](https://janakiev.com/) - [Slides](https://janakiev.com/ogr-presentation/) - [Video](https://av.tib.eu/media/39176)
