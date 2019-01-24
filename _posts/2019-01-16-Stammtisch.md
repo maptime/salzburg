@@ -4,15 +4,8 @@ category: event
 title: January 2019 🗺 Maptime Stammtisch 🌍 OSM mapping
 ---
 
-On 16th January will be the next Maptime Stammtisch! Everyone is welcome to join and talk about geodata, GIS, remote sensing, programming and everything else :-)  
+Around 20 people came to the Maptime Stammtisch on Wednesday, January 16th at [Academy Bar](https://www.openstreetmap.org/node/4742175090). The OpenStreetMap(OSM) mapping activity beforehand with the Android app [StreetComplete](https://github.com/westnordost/StreetComplete/) had very low attendance, but the few participants had fun walking around in the cold, damp weather anyways. :-)
 
-**date**: Wednesday, 16th January
+We are looking forward to the next round of presentations in February to discuss ways that Jupyter can be used when working with geospatial data, maps, and more.
 
-**time**: 20:00h
-
-**place**: [Academy Bar](https://www.openstreetmap.org/node/4742175090), Franz-Josef-Straße 4
-
-
-### OpenStreetMap mapping
-
-Additionally those who are interested in OpenStreetMap(OSM) will meet one hour earlier at **19:00 in front of the Academy Bar**. We will do some mapping with the Android app [StreetComplete](https://github.com/westnordost/StreetComplete/). New people are very welcome!
+![]({{site.baseurl}}/img/2019-01-16_stammtisch.jpg)
