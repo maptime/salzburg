@@ -1,5 +1,5 @@
 ---
-layout: event
+layout: post
 title: October 2018 - OpenStreetMap
 image: img/2018-10-09/osm_overview.jpg
 ---
