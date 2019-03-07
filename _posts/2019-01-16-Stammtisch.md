@@ -1,6 +1,5 @@
 ---
-layout: event
-category: event
+layout: post
 title: January 2019 🗺 Maptime Stammtisch 🌍 OSM mapping
 ---
 

@@ -1,6 +1,5 @@
 ---
-layout: event
-category: event
+layout: post
 title: December 2018 - Geospatial Data Handling
 ---
 

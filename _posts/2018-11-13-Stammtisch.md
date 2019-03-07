@@ -1,6 +1,5 @@
 ---
-layout: event
-category: event
+layout: post
 title: November 2018 - Stammtisch
 ---
 
