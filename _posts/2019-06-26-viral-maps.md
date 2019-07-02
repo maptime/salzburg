@@ -9,4 +9,6 @@ On the 26th of June we had a 20 minute talk about viral maps by [Dr. Anthony Rob
 
 ![]({{site.baseurl}}/img/2019-06-26_Anthony_Robinson.jpg)
 
+(Photo taken by Joseph Strobl)
+
 **Overview**: It’s now quite possible to create and share a map that is seen by thousands of people around the world with minimal effort. Maps that begin to spread rapidly via social media can be considered examples of viral cartography. In recent research, we have been working in the GeoVISTA Center at Penn State on developing new ways to analyze and understand maps in social media. In this talk I will show some of the progress we’ve made so far in analyzing and visualizing elements of design, dissemination, and disinformation related to viral maps.
