@@ -1,45 +1,26 @@
 ---
-layout: event
-category: event
+layout: post
 title: September 2019 - Mapathon
-rsvp: mailto:maptime.salzburg@gmail.com?subject=September%202019%20Mapathon
 ---
 (English version below ... )
 
 ## German 🇦🇹🇨🇭🇩🇪
 
-Am 18. September veranstalten wir einen Mapathon. Es geht dabei darum gemeinsam ein Gebiet in einer entfernten Region zu kartieren. [Dieses Video](https://www.youtube.com/watch?v=pAcsCmvG2hs) erklärt die Hintergründe.
+Am 18. September haben wir einen Mapathon bei [TraffiCon](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079) veranstaltet. Es ging dabei darum gemeinsam ein Gebiet in einer entfernten Region zu kartieren. [Dieses Video](https://www.youtube.com/watch?v=pAcsCmvG2hs) erklärt die Hintergründe. Wir haben an zwei Tasks gearbeitet: [#6558](https://tasks.hotosm.org/project/6558) in Ouham in der Zentralafrikanischen Republik und [#6718](https://tasks.hotosm.org/project/6718) in Bukavu in der Demokratischen Republik Kongo.
 
-**Datum**: Mittwoch, 18. September
+Die Arbeit an den Tasks während unsere Mapathon stattgefunden hat an sieht man hier:
 
-**Zeit**: 19:00 Uhr
+![]({{site.baseurl}}/img/2019-09-18_Ouham_6558.gif)
 
-**Ort**: Trafficon Meeting Room, 7. Stock , [Strubergasse 26, 5020 Salzburg](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079)
+![]({{site.baseurl}}/img/2019-09-18_Bukavu_6718.gif)
 
-Es sind keine Vorkenntnisse notwendig. Wir werden eine Einführung für Anfänger anbieten. Jede*r ist herzlich willkommen!
+Getränke und Snacks wurden freundlicherweise von [Trafficon](https://www.trafficon.eu/) bereitgestellt. Im Anschluss haben wir den Abend in der Trumerei gemütlich ausklingen lassen 🍻
 
-Bitte mitbringen:
-* einen Laptop mit Ladegerät
-* eine Computer-Maus (damit das Mappen einfacher ist)
-* einen [OpenStreetMap Account](https://www.openstreetmap.org/user/new) anlegen
-
-Getränke und Snacks werden freundlicherweise von [Trafficon](https://www.trafficon.eu/) bereitgestellt. Es darf aber gerne selbst auch was mitgenommen werden. Im Anschluss lassen wir den Abend in der Trumerei gemütlich ausklingen 🍻
 
 ## English 🌐
 
-On the 18th of September we will have a Mapathon. This is an event where people map together a remote region in the world. Check this [introduction video](https://www.youtube.com/watch?v=pAcsCmvG2hs) for more details.
+On the 18th of September we had a Mapathon at [TraffiCon](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079). This is an event where people map together a remote region in the world. Check this [introduction video](https://www.youtube.com/watch?v=pAcsCmvG2hs) for more details. We worked on two different tasks: [#6558](https://tasks.hotosm.org/project/6558) in Ouham in the Central African Republic und [#6718](https://tasks.hotosm.org/project/6718) in Bukavu in the Democratic Republic of Congo.
 
-**date**: Wednesday, 18th September
+The progress made on the two tasks during the time the Mapathon took place can be seen in the gifs (see German section above).
 
-**time**: 19:00 h
-
-**place**: Trafficon Meeting Room, 7th floor, [Strubergasse 26, 5020 Salzburg](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079)
-
-This event does not require any prior skills, everyone interested is welcome! We will provide a basic introduction.
-
-Please bring:
-* a laptop,
-* a mouse (for convenient mapping)
-* an [OpenStreetMap Account](https://www.openstreetmap.org/user/new).
-
-Some Snacks and drinks will be provided by [Trafficon](https://www.trafficon.eu/). Feel free to bring your own. After the Mapathon we will go to the Trumerei bar 🍻
+Some snacks and drinks were generously provided by [Trafficon](https://www.trafficon.eu/). Afterwards we capped the evening off together at the Trumerei bar 🍻
