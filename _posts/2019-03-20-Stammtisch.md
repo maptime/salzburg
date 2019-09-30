@@ -1,5 +1,5 @@
 ---
-layout: pos
+layout: post
 title: March 2019 - Stammtisch
 ---
 
@@ -10,4 +10,3 @@ On the 20th of March we had a Maptime Stammtisch! Around 30 people came. Thanks 
 **time**: 19:30h
 
 **place**: [Augustiner Bräu](https://www.augustinerbier.at/), Lindhofstraße 7, 5020 Salzburg
-
