@@ -1,8 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
 title: June 2019 - What’s Behind Viral Maps?
-rsvp: mailto:maptime.salzburg@gmail.com?subject=June%202019%20Maptime
 ---
 
 On the 26th of June we had a 20 minute talk about viral maps by [Dr. Anthony Robinson](https://sites.psu.edu/arobinson/), Associate Professor at Penn State. His research focuses on cartography, geography, visual analytics and online learning. Afterwards we had a wonderful BBQ with great weather.
