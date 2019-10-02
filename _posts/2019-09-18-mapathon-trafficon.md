@@ -2,25 +2,24 @@
 layout: post
 title: September 2019 - Mapathon
 ---
-(English version below ... )
+![]({{site.baseurl}}/img/2019-09-18_presentation.jpg)
 
 ## German 🇦🇹🇨🇭🇩🇪
 
-Am 18. September haben wir einen Mapathon bei [TraffiCon](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079) veranstaltet. Es ging dabei darum gemeinsam ein Gebiet in einer entfernten Region zu kartieren. [Dieses Video](https://www.youtube.com/watch?v=pAcsCmvG2hs) erklärt die Hintergründe. Wir haben an zwei Tasks gearbeitet: [#6558](https://tasks.hotosm.org/project/6558) in Ouham in der Zentralafrikanischen Republik und [#6718](https://tasks.hotosm.org/project/6718) in Bukavu in der Demokratischen Republik Kongo.
+Am 18. September 2019 fand unser dritter Mapathon statt, dieses Mal in den Räumlichkeiten der Firma [Trafficon](https://www.trafficon.eu/) im Stadtwerk Hochhaus. 15 Interessierte kamen zum gemeinsamen Mapping zusammen.
 
-Die Arbeit an den Tasks während unsere Mapathon stattgefunden hat an sieht man hier:
+Zum Einstieg präsentierte unser Gastgeber Stefan Krampe einige persönliche Erfahrungen und Eindrücke aus der Frühzeit von OpenStreetMap in der Region Salzburg. Dann gaben wir eine Einführung zum Mapping und einige Hintergrundinfos zur Region. Unsere Kontakte von Ärzte ohne Grenzen in Wien hatten uns Task [#6558](https://tasks.hotosm.org/project/6558) in Ouham (Zentralafrikanischen Republik) und den Task [#6718](https://tasks.hotosm.org/project/6718) in Bukavu (Demokratischen Republik Kongo) empfohlen. Nach einigem gemütlichen Mapping mit Snacks, Getränken und Musik ließen wir den Abend in der Trumerei ausklingen
 
-![]({{site.baseurl}}/img/2019-09-18_Ouham_6558.gif)
+Wir danken [Ärzte ohne Grenzen (MSF)](https://www.aerzte-ohne-grenzen.at/) und unserem Gastgeber Trafficon sowie allen TeilnehmerInnen und hoffen auf eine baldige Wiederholung!
 
-![]({{site.baseurl}}/img/2019-09-18_Bukavu_6718.gif)
-
-Getränke und Snacks wurden freundlicherweise von [Trafficon](https://www.trafficon.eu/) bereitgestellt. Im Anschluss haben wir den Abend in der Trumerei gemütlich ausklingen lassen 🍻
-
+![]({{site.baseurl}}/img/2019-09-18_mapping.jpg)
 
 ## English 🌐
 
-On the 18th of September we had a Mapathon at [TraffiCon](https://www.openstreetmap.org/?mlat=47.80948&mlon=13.03079#map=19/47.80948/13.03079). This is an event where people map together a remote region in the world. Check this [introduction video](https://www.youtube.com/watch?v=pAcsCmvG2hs) for more details. We worked on two different tasks: [#6558](https://tasks.hotosm.org/project/6558) in Ouham in the Central African Republic und [#6718](https://tasks.hotosm.org/project/6718) in Bukavu in the Democratic Republic of Congo.
+On September 18th 2019 we had our third Maptime Salzburg Mapathon, this time kindly hosted by [Trafficon](https://www.trafficon.eu/). 15 people gathered for this social mapping event. As an introduction our host Stefan Krampe from Trafficon presented some personal impressions of the early times of OSM in the Salzburg region.
 
-The progress made on the two tasks during the time the Mapathon took place can be seen in the gifs (see German section above).
+We then gave an introduction to the mapping task and the region of interest, based on information from our contacts from Doctors without Borders in Vienna. We worked on task [#6558](https://tasks.hotosm.org/project/6718), an Ebola region in DRC, or alternatively on task [#6558](https://tasks.hotosm.org/project/6558) in the Central African Republic. After some happy mapping with snacks, drinks and music we went to the Trumerei 🍻
 
-Some snacks and drinks were generously provided by [Trafficon](https://www.trafficon.eu/). Afterwards we capped the evening off together at the Trumerei bar 🍻
+We would like to thank [Doctors without Borders (MSF)](https://www.msf.org/), our host Trafficon and, of course, all participants for joining, and hope to see them soon again for more social mapping!
+
+![]({{site.baseurl}}/img/2019-09-18_talking.jpg)
