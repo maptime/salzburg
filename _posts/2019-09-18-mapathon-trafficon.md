@@ -5,6 +5,7 @@ title: September 2019 - Mapathon
 ![]({{site.baseurl}}/img/2019-09-18_presentation.jpg)
 
 ## German 🇦🇹🇨🇭🇩🇪
+( English 🌐 version below ... )
 
 Am 18. September 2019 fand unser dritter Mapathon statt, dieses Mal in den Räumlichkeiten der Firma [Trafficon](https://www.trafficon.eu/) im Stadtwerk Hochhaus. 13 Interessierte kamen zum gemeinsamen Mapping zusammen.
 
