@@ -18,7 +18,7 @@ Wir danken [Ärzte ohne Grenzen (MSF)](https://www.aerzte-ohne-grenzen.at/) und 
 
 On September 18th 2019 we had our third Maptime Salzburg Mapathon, this time kindly hosted by [Trafficon](https://www.trafficon.eu/). 13 people gathered for this social mapping event. As an introduction our host Stefan Krampe from Trafficon presented some personal impressions of the early times of OSM in the Salzburg region.
 
-We then gave an introduction to the mapping task and the region of interest, based on information from our contacts from Doctors without Borders in Vienna. We worked on task [#6558](https://tasks.hotosm.org/project/6718), an Ebola region in DRC, or alternatively on task [#6558](https://tasks.hotosm.org/project/6558) in the Central African Republic. After some happy mapping with snacks, drinks and music we went to the Trumerei 🍻
+We then gave an introduction to the mapping task and the region of interest, based on information from our contacts from Doctors without Borders in Vienna. We worked on task [#6718](https://tasks.hotosm.org/project/6718), an Ebola region in DRC, or alternatively on task [#6558](https://tasks.hotosm.org/project/6558) in the Central African Republic. After some happy mapping with snacks, drinks and music we went to the Trumerei 🍻
 
 We would like to thank [Doctors without Borders (MSF)](https://www.msf.org/), our host Trafficon and, of course, all participants for joining, and hope to see them soon again for more social mapping!
 
