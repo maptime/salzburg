@@ -4,7 +4,7 @@ title: October 2019 - Stammtisch 🍻
 rsvp: https://www.meetup.com/Maptime-Salzburg/events/265379746/
 ---
 
-![]({{site.baseurl}}/img/2019-10-09_Stammtisch_Group.jpg)
+![]({{site.baseurl}}/img/2019-10-09_Stammtisch_Group.jpeg)
 
 
 ## German 🇦🇹🇨🇭🇩🇪
@@ -17,4 +17,4 @@ Pünklich zum Beginn des neuen Semesters hatten wir einen geselligen Stammtisch 
 
 Just in time for the new semester we organized a Stammtisch meeting. Some new people from many different countries joined us. We are looking forward the next time!
 
-![]({{site.baseurl}}/img/2019-10-09_Stammtisch_Beer.jpg)
+![]({{site.baseurl}}/img/2019-10-09_Stammtisch_Beer.jpeg)
