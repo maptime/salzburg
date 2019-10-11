@@ -8,7 +8,6 @@ rsvp: https://www.meetup.com/Maptime-Salzburg/events/265379746/
 
 
 ## German 🇦🇹🇨🇭🇩🇪
-(English 🌐 version below ... )
 
 Pünklich zum Beginn des neuen Semesters hatten wir einen geselligen Stammtisch in der Academy Bar. Es sind einige neue Gesichter aus vielen verschiednene Ländern dazugekommen. Wir freuen uns auf das nächste Mal!
 
