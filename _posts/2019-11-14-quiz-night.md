@@ -23,7 +23,7 @@ Jede*r ist herzlich willkommen!
 
 Summer is definitely over and Maptime Salzburg starts the cold season with a cosy evening 🍁 There are two short talks about geo-trends on Twitter, namely [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click). Finally we hold a geo-quiz where you can win great prizes 🏆 We will finish the evening with some drinks and snacks 🍻
 
-Everyone is welcome!
+Everyone is very welcome!
 
 **date**: Thursday, 14th November
 
