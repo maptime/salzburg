@@ -7,7 +7,7 @@ rsvp: mailto:maptime.salzburg@gmail.com?subject=Social
 
 ## German 🇦🇹🇨🇭🇩🇪
 
-Der Sommer ist entgültig vorbei und Maptime Salzburg startet mit einem gemütlichen Abend in die kalte Jahreszeit 🍁 Es gibt zwei kurze Vorträge über Geo-Trends auf Twitter, nämlich [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click) und [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click). Zum Abschluss veranstalten wir ein Geo-Quiz bei dem es tolle Preise zu gewinnen gibt 🏆 Den Abend lassen wir bei ein paar Getränken und Knabbereien ausklingen 🍻
+Der Sommer ist entgültig vorbei und Maptime Salzburg startet mit einem gemütlichen Abend in die kalte Jahreszeit 🍁 Es gibt zwei kurze Vorträge über Geo-Trends auf Twitter, nämlich [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) und [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Zum Abschluss veranstalten wir ein Geo-Quiz bei dem es tolle Preise zu gewinnen gibt 🏆 Den Abend lassen wir bei ein paar Getränken und Knabbereien ausklingen 🍻
 
 Jede*r ist herzlich willkommen!
 
@@ -20,7 +20,7 @@ Jede*r ist herzlich willkommen!
 
 ## English 🌐
 
-Summer is definitely over and Maptime Salzburg starts the cold season with a cosy evening 🍁 There are two short talks about geo-trends on Twitter, namely [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click). Finally we hold a geo-quiz where you can win great prizes 🏆 We will finish the evening with some drinks and snacks 🍻
+Summer is definitely over and Maptime Salzburg starts the cold season with a cosy evening 🍁 There are two short talks about geo-trends on Twitter, namely [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Finally we hold a geo-quiz where you can win great prizes 🏆 We will finish the evening with some drinks and snacks 🍻
 
 Everyone is very welcome!
 
