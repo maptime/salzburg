@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: November 2019 - 🏅 Quiz Night 🏆
-rsvp: mailto:maptime.salzburg@gmail.com?subject=Social
+rsvp: https://www.meetup.com/Maptime-Salzburg/events/266291447/
 ---
 
 ## German 🇦🇹🇨🇭🇩🇪
