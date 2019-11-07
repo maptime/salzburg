@@ -16,7 +16,7 @@ Jede*r ist herzlich willkommen!
  
 **Zeit**: 19 Uhr
 
-**Ort**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - [Schillerstrasse 30, Techno-Z, Bauteil XV](https://www.openstreetmap.org/node/4787833494)
+**Ort**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - Schillerstrasse 30, [Techno-Z, Bauteil XV](https://www.openstreetmap.org/node/4787833494)
 
 ## English 🌐
 
@@ -28,4 +28,4 @@ Everyone is very welcome!
 
 **time**: 19:00 h
 
-**place**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - [Schillerstrasse 30, Techno-Z, Building/Bauteil XV](https://www.openstreetmap.org/node/4787833494)
+**place**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - Schillerstrasse 30, [Techno-Z, Building/Bauteil XV](https://www.openstreetmap.org/node/4787833494)
