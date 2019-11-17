@@ -1,31 +1,26 @@
 ---
-layout: event
-category: event
+layout: post
 title: November 2019 - 🏅 Quiz Night 🏆
-rsvp: https://www.meetup.com/Maptime-Salzburg/events/266291447/
 ---
+
+![]({{site.baseurl}}/img/2019-11-14_Audience.jpg)
 
 ## German 🇦🇹🇨🇭🇩🇪
 
-Der Sommer ist entgültig vorbei und Maptime Salzburg startet mit einem gemütlichen Abend in die kalte Jahreszeit 🍁 Es gibt zwei kurze Vorträge über Geo-Trends auf Twitter, nämlich [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) und [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Zum Abschluss veranstalten wir ein Geo-Quiz bei dem es tolle Preise zu gewinnen gibt 🏆 Den Abend lassen wir bei ein paar Getränken und Knabbereien ausklingen 🍻
+Der Sommer ist entgültig vorbei und Maptime Salzburg fing in die kalte Jahreszeit mit einem gemütlichen Abend an 🍁 Es gab zwei kurze Vorträge über Geo-Trends auf Twitter, nämlich [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) und [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Zum Abschluss veranstalteten wir ein Geo-Quiz bei dem es tolle Preise zu gewinnen gab 🏆 Den Abend ließen wir bei ein paar Getränken und Knabbereien ausklingen 🍻
 
-Jede*r ist herzlich willkommen!
-
-
-**Datum**: Donnerstag, 14. November
- 
-**Zeit**: 19 Uhr
-
-**Ort**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - Schillerstrasse 30, [Techno-Z, Bauteil XV](https://www.openstreetmap.org/node/4787833494)
+Vielen herzlichen Dank an [iDEAS:lab](https://ideaslab.sbg.ac.at/) und [Z_GIS](https://zgis.at/de/) für den Raum um unsere Verantstaltung zu ermöglichen!
 
 ## English 🌐
 
-Summer is definitely over and Maptime Salzburg starts the cold season with a cosy evening 🍁 There are two short talks about geo-trends on Twitter, namely [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Finally we hold a geo-quiz where you can win great prizes 🏆 We will finish the evening with some drinks and snacks 🍻
+Summer is definitely over and Maptime Salzburg started the cold season with a cosy evening 🍁 There were two short talks about geo-trends on Twitter, namely [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live). Finally we held a geo-quiz where great prizes could be won 🏆  We finished the evening with some drinks and snacks 🍻
 
-Everyone is very welcome!
+Special thanks to [iDEAS:lab](https://ideaslab.sbg.ac.at/) and [Z_GIS](https://zgis.at/en/) for the space to make our event possible!
 
-**date**: Thursday, 14th November
+![]({{site.baseurl}}/img/2019-11-14_30days.jpg)
 
-**time**: 19:00 h
+![]({{site.baseurl}}/img/2019-11-14_Feedback1.jpg)
 
-**place**: [iDEAS:lab](https://ideaslab.sbg.ac.at/) - Schillerstrasse 30, [Techno-Z, Building/Bauteil XV](https://www.openstreetmap.org/node/4787833494)
+![]({{site.baseurl}}/img/2019-11-14_Feedback2.jpg)
+
+![]({{site.baseurl}}/img/2019-11-14_Quiz.jpg)

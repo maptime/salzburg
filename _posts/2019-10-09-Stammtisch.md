@@ -1,7 +1,6 @@
 ---
 layout: post
 title: October 2019 - Stammtisch 🍻
-rsvp: https://www.meetup.com/Maptime-Salzburg/events/265379746/
 ---
 
 ![]({{site.baseurl}}/img/2019-10-09_Stammtisch_Group.jpeg)
