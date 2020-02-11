@@ -14,7 +14,7 @@ rsvp: https://www.meetup.com/Maptime-Salzburg/
 ## German 🇦🇹🇨🇭🇩🇪
 (English 🌐 version below ... )
 
-Wir veranstalten ein Einführungs-Workshop zum Programmieren mit R. Nach einem kurzen Vortrag wird es ein vorbereitetes Projekt geben mit dem jede*r die Grundzüge am eigenen Laptop ausprobieren kann. Wir haben auch ein paar Computer für alle die keinen Laptop mitbringen können. Es ist kein Vorwissen notwendig.
+Wir veranstalten ein Einführungs-Workshop zum Programmieren mit R. Nach einem kurzen Vortrag von [Luuk van der Meer](https://twitter.com/LuukvanderMeer) wird es ein vorbereitetes Projekt geben mit dem jede*r die Grundzüge am eigenen Laptop ausprobieren kann. Bitte [R Studio](https://rstudio.com/products/rstudio/download/) installieren. Wir haben auch ein paar Computer für alle die keinen Laptop mitbringen können. Es ist kein Vorwissen notwendig.
 
 Für Snacks, Getränke und Musik ist gesorgt 😊
 
@@ -31,7 +31,7 @@ Jede*r ist herzlich willkommen!
 
 ## English 🌐
 
-We will have an introduction to R programming. After a short talk, there will be a prepared project that everybody can try on his/her laptop. We also do have some computers for everyone who cannot bring a laptop. No previous knowledge required.        
+We will have an introduction to R programming. After a short talk by [Luuk van der Meer](https://twitter.com/LuukvanderMeer), there will be a prepared project that everybody can try on his/her laptop. Please install [R Studio](https://rstudio.com/products/rstudio/download/). We also do have some computers for everyone who cannot bring a laptop. No previous knowledge required.        
 
 **Date**: Thursday, 20 February
 
