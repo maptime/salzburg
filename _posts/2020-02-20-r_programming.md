@@ -9,7 +9,7 @@ rsvp: https://www.meetup.com/Maptime-Salzburg/
 | ![R Logo](https://www.r-project.org/Rlogo.png) | ![R Studio Logo](https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg) |
 
 
-[REPOSITORY](https://github.com/luukvdmeer/maptimeR)
+[--> LINK TO REPOSITORY <--](https://github.com/luukvdmeer/maptimeR)
 
 
 
