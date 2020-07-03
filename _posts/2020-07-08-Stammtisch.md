@@ -13,7 +13,7 @@ Zum ersten mal seit COVID-19, würden wir gerne ein Stammtisch veranstalten, abe
 
 **Zeit**: 18:00
 
-**Ort**: [Techno_Z, Grillplatz](https://www.openstreetmap.org/node/818902658)
+**Ort**: [Techno_Z, Grillplatz](https://osm.org/go/0JIgJ~0G0-?m=)
 
 Bei Fragen könnt Ihr uns gerne schreiben: [maptime.salzburg@gmail.com](mailto:maptime.salzburg@gmail.com?subject=July%2020%20Stammtisch).
 
@@ -27,7 +27,7 @@ Time for an informal, but socially distanced get together to celebrate the comin
 
 **Time**: 18:00
 
-**Place**: [Techno_Z,Grills](https://www.openstreetmap.org/node/818902658)
+**Place**: [Techno_Z,Grills](https://osm.org/go/0JIgJ~0G0-?m=)
 
 Please feel free to contact us if you have any questions: [maptime.salzburg@gmail.com](mailto:maptime.salzburg@gmail.com?subject=July%2020%20Stammtisch).
 
