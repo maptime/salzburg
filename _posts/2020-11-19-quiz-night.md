@@ -1,3 +1,4 @@
+---
 layout: event
 category: event
 title: November 2020 - 🏅 Geo Quiz Night 🏆
