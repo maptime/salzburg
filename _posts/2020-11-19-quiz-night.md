@@ -11,11 +11,15 @@ After a long corona break, we thought it's now the time to have a virtual Maptim
 
 Join our video conference and use a mobile device to take part in the quiz!
 
+
 **date**: Thursday, 19th November 2020
+
 **time**: 20:00
+
 **place**: (meeting link follows)
 
-As all friends of Maptime have their own special geo knowledge, you're invited to send us suggestions for quiz questions to mailto:maptime.sbg@gmail.com?subject=Quiz until Wednesday 18:00. We will select maximum one question per contributor.
+
+As all friends of Maptime have their own special geo knowledge, you're invited to send us suggestions for quiz questions to maptime.sbg@gmail.com until Wednesday 18:00. We will select maximum one question per contributor.
 
 Looking forward to seeing you!
 
@@ -26,10 +30,14 @@ Nach einer langen Corona-Pause wurde es nun Zeit für ein virtuelles Maptime-Eve
 
 Klickt euch in unser Online Meeting und benutzt ein mobiles Gerät, um am Quiz teilzunehmen!
 
+
 **Datum**: Donnerstag, 19. November 2020
+
 **Zeit**: 20:00 Uhr
+
 **Ort**: (Meeting Link folgt)
 
-Da alle Freunde von Maptime ihr eigenes Geo-Spezialwissen haben, seid ihr eingeladen, uns bis Mittwoch 18:00 Uhr Vorschläge für Quizfragen an mailto:maptime.sbg@gmail.com?subject=Quiz zu senden. Wir werden maximal eine Frage pro EinsenderIn auswählen.
+
+Da alle Freunde von Maptime ihr eigenes Geo-Spezialwissen haben, seid ihr eingeladen, uns bis Mittwoch 18:00 Uhr Vorschläge für Quizfragen an maptime.sbg@gmail.com zu senden. Wir werden maximal eine Frage pro EinsenderIn auswählen.
 
 Wir freuen uns euch zu sehen!
