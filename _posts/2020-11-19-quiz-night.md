@@ -17,6 +17,7 @@ Join our video conference and use a mobile device to take part in the quiz! You 
 
 **place**: [Join Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTIxYzk2ZDUtNTdlYy00YzcyLWJlY2QtMDMxMDM0YjcxMzU2%40thread.v2/0?context=%7b%22Tid%22%3a%228e4a1a67-f62f-44f9-b8e8-c5e262408e28%22%2c%22Oid%22%3a%225ede2f49-8c73-4186-9158-91fe87ffa4fd%22%7d)
 
+**quiz**: When the quiz starts, you will be able to [submit your answers here](https://pollev.com/maptimesalzb813).
 
 As all friends of Maptime have their own special geo knowledge, you're invited to send us suggestions for quiz questions to maptime.sbg@gmail.com until Wednesday 18:00. We will select maximum one question per contributor.
 
@@ -36,6 +37,7 @@ Kommt in unser Online Meeting und benutzt ein mobiles Gerät, um am Quiz teilzun
 
 **Ort**: [Meeting beitreten](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTIxYzk2ZDUtNTdlYy00YzcyLWJlY2QtMDMxMDM0YjcxMzU2%40thread.v2/0?context=%7b%22Tid%22%3a%228e4a1a67-f62f-44f9-b8e8-c5e262408e28%22%2c%22Oid%22%3a%225ede2f49-8c73-4186-9158-91fe87ffa4fd%22%7d)
 
+**Quiz**: Sobald das Quiz startet, kannst du deine [Antworten hier eingeben](https://pollev.com/maptimesalzb813).
 
 Da alle Freunde von Maptime ihr eigenes Geo-Spezialwissen haben, seid ihr eingeladen, uns bis Mittwoch 18:00 Uhr Vorschläge für Quizfragen an maptime.sbg@gmail.com zu senden. Wir werden maximal eine Frage pro EinsenderIn auswählen.
 
