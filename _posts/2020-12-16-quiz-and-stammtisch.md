@@ -12,7 +12,7 @@ For the quiz, join our video conference and use a mobile device to take part in 
 
 **date**: Wednesday, 16th December 2020
 
-**place and time**: 20:00 - 20:45 [Quiz](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMwYTQ5YTctNDBlYi00YmFmLWEyY2MtZjRmMTEwOWRjYTRm%40thread.v2/0?context=%7b%22Tid%22%3a%228e4a1a67-f62f-44f9-b8e8-c5e262408e28%22%2c%22Oid%22%3a%225ede2f49-8c73-4186-9158-91fe87ffa4fd%22%7d) and afterwards [Stammtisch](https://gather.town/app/Bj2txIhSzzCUZjS9/maptimesbg)
+**place and time**: 20:00 - 20:45 [**Quiz**](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMwYTQ5YTctNDBlYi00YmFmLWEyY2MtZjRmMTEwOWRjYTRm%40thread.v2/0?context=%7b%22Tid%22%3a%228e4a1a67-f62f-44f9-b8e8-c5e262408e28%22%2c%22Oid%22%3a%225ede2f49-8c73-4186-9158-91fe87ffa4fd%22%7d) and afterwards [**Stammtisch**](https://gather.town/app/Bj2txIhSzzCUZjS9/maptimesbg)
 
 **quiz**: Once the quiz starts, you will be able to submit your answers [here](https://pollev.com/maptimesalzb813).
 
