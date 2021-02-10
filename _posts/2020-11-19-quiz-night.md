@@ -1,15 +1,13 @@
 ---
-layout: event
-category: event
+layout: post
 title: November 2020 - 🏅 Geo Quiz Night 🏆
-rsvp: mailto:maptime.sbg@gmail.com?subject=Quiz
 ---
 
 ## English 🌐
 
 After a long corona break, we thought it's now the time to have a virtual Maptime event! Thursday, 19.11.20 is PostGIS Day and a perfect opportunity for a second edition of the Maptime Geo Quiz - this time in a virtual edition! We will also have a very short talk about [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=typeahead_click&f=image) and [#PostGISDay](https://twitter.com/search?q=%23PostGISDay&src=typeahead_click&f=live).
 
-Join our video conference and use a mobile device to take part in the quiz! You can submit your answers under a nickname i.e. anonymously if you want. The event will take around one hour, but if you don't like it - don't hesitate to just leave the meeting! 
+Join our video conference and use a mobile device to take part in the quiz! You can submit your answers under a nickname i.e. anonymously if you want. The event will take around one hour, but if you don't like it - don't hesitate to just leave the meeting!
 
 **date**: Thursday, 19th November 2020
 
