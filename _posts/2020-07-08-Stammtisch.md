@@ -1,8 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
 title: July 2020 - Stammtisch
-rsvp: mailto:maptime.salzburg@gmail.com?subject=July%2020%20Maptime
 ---
 ## German 🇦🇹🇨🇭🇩🇪
 (English 🌐 version below ... )
