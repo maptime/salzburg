@@ -22,7 +22,6 @@ The event will take place in the new Maptime Work Adventure environment. Come to
 **time**: 20:00 - 21:00
 
 **place**: [Maptime Work Adventure environment](https://play.workadventu.re/@/maptimesbg/maptimesbg/maptimesbg)
-When: 20:00
 
 
 We also realise that this event is happening concurrently to an OSGeo codesprint, which, if you are more interested in that, you can find more information here: https://www.osgeo.org/events/joint-ogc-osgeo-asf-code-sprint-2021/
