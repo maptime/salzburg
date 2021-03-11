@@ -9,4 +9,4 @@ In February we tried a new format in the new Maptime Work Adventure environment.
 
 Afterwards we explored the Workadventure space and had an enjoyable virtual Stammtisch. Looking forward to next time!
 
-![Stammtisch in Work Adventure environment]({{site.baseurl}}/2021-02-18_stammtisch.png)
+![Stammtisch in Work Adventure environment]({{site.baseurl}}/img/2021-02-18_stammtisch.png)
