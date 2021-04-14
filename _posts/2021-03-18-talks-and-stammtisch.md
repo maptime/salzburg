@@ -1,8 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
 title: March 2021 - Talks and Stammtisch
-rsvp: mailto:maptime.salzburg@gmail.com?subject=March%2021%20Maptime
 ---
 
 We will be having another talks and stammtisch night in March! This time with two short talks focusing on Earth Observation 🌍
