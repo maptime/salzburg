@@ -1,24 +1,14 @@
 ---
-layout: event
-category: event
+layout: post
 title: April 2021 - Talks and Stammtisch
-rsvp: mailto:maptime.salzburg@gmail.com?subject=April%2021%20Maptime
 ---
 
-We will be having another talk and stammtisch night in April! This time with one talk focusing on machine learning and Earth Observation 🌍
+Thanks to everyone who was able to make it to Maptime in April!
 
-The event will take place in the Maptime Work Adventure environment. Come to Meeting #1 for the talk, or just come to meet with people outside the meeting room. After the talk we can then all spend some time chatting and exploring the virtual space 🍻
+![Few-shot]({{site.baseurl}}/img/2021-04-22_caybar_1.png)
 
-![Maptime WorkAdventure environment]({{site.baseurl}}/img/2020-02-14_workadventure.png)
+![EO application]({{site.baseurl}}/img/2021-04-22_caybar_2.png)
 
+Cesar Aybar presented on "Few-shot Learning and Meta-Learning in Earth Observation". The slides from his presentation can be accessed [online](https://docs.google.com/presentation/d/17ncFqflvFTLGYGvVG3jcbwf1XmO9amIyQCxds84hl4o/edit#slide=id.p) or as a [PDF](https://github.com/augustinh22/maptime-salzburg/blob/master/materials/2021-04-22_fewshot_and_meta_learning/meta-learning.pdf).
 
-**date**: Thursday, 22nd April 2021
-
-**time**: 20:00 - 21:00
-
-**place**: [Maptime WorkAdventure environment](https://play.workadventu.re/@/maptimesbg/maptimesbg/maptimesbg)
-
-**topic**: "Few-shot Learning and Meta-Learning in Earth Observation" by C. Aybar
-
-
-By the way - get in touch if you have a few minutes to share anything you are working on in one of the upcoming events!
+For next month we will be putting together another quiz. Stay tuned for updates soon!
