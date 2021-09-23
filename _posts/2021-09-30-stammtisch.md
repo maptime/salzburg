@@ -5,7 +5,7 @@ title: September 2021 - Stammtisch
 rsvp: mailto:maptime.salzburg@gmail.com?subject=September%2021%20Maptime
 ---
 
-Autumn has arrived. Bundle up, bring a few beverages of your own along with any ideas for upcoming maptime events, and join us for twlight/sunset in the Volksgarten.
+Autumn has arrived. Bundle up, bring a few beverages of your own along with any ideas for upcoming maptime events, and join us for twilight/sunset in the Volksgarten.
 
 Since it is the beginning of a new semester for those that study, we hope to see some new faces and provide a place for newer folks to get to know a few people! There will be nametages. ;)
 
