@@ -11,4 +11,4 @@ Maptime Stammtisch is back! Looking forward to seeing some new and old faces, di
 
 **time**: 19:30 - 21:00
 
-**place**: tba
+**place**: [Die Weiße](https://www.openstreetmap.org/?mlat=47.80703&mlon=13.05174#map=19/47.80703/13.05174)
