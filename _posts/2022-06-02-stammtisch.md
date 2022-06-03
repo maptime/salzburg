@@ -1,8 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
 title: June 2022 - Stammtisch
-rsvp: mailto:maptime.salzburg@gmail.com?subject=June%2022%20Maptime
 ---
 
 Maptime Stammtisch is back! Looking forward to seeing some new and old faces, discussing ideas for upcoming maptime events and just getting together again.
