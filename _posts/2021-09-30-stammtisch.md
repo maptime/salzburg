@@ -1,8 +1,6 @@
 ---
-layout: event
-category: event
+layout: post
 title: September 2021 - Stammtisch
-rsvp: mailto:maptime.salzburg@gmail.com?subject=September%2021%20Maptime
 ---
 
 Autumn has arrived. Bundle up, bring a few beverages of your own along with any ideas for upcoming maptime events, and join us for twilight/sunset in the Volksgarten.
