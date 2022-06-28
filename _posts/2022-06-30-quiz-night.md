@@ -11,4 +11,4 @@ Before we go into the summer break, we have something special for you. Be excite
 
 **time**: 19:30 - 21:00
 
-**place**: tba
+**place**: [iDEAS:lab](https://www.openstreetmap.org/?mlat=47.82361&mlon=13.03962#map=19/47.82361/13.03962)
